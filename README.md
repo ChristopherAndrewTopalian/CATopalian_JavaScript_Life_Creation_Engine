@@ -5,6 +5,8 @@ This JavaScript app allows the user to simulate life! It teaches canvas and clas
 
 Video: https://www.youtube.com/watch?v=Tx2u8jxaYGM
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Life_Creation_Engine/CATopalian_JavaScript_Life_Creation_Engine.html
+
 ![001](src/media/textures/screenshots/001.png)
 
 ---
